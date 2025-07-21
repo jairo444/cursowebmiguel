@@ -4,6 +4,6 @@ hdvgsv<lkvbkhvbahkñd
 
 ***mensaje en negrita***
 
--primera opcion
+- primera opcion
 
--segunda opcion
+- segunda opcion
